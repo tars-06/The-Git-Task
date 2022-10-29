@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 This is the fourth commit.
 You should be reading this after step 1!
 
+=======
+This is the seventh commit.
+First commit in the feature branch!
+Ideally, you are not supposed to see this message.
+>>>>>>> 5fc61b6 (commit 7)
